@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erkam
 - 👀 I’m interested in Swift and Flutter
-- 🌱 I’m currently learning iOS Development
+- 🌱 I love iOS Development
 - 📫 How to reach me erkamkaracaa@gmail.com
 
 <!---
