@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Erkam
 - 👀 I’m currently working with Java/Spring Boot, React.js with Typescript
 - 👀 I’m interested in Swift and Flutter
-- 🌱 I love native iOS development and Full-Stack development
+- 🌱 I love full-stack web development and native iOS development
 - 📫 How to reach me erkamkaracaa@gmail.com
 
 <!---
